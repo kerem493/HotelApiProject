@@ -96,8 +96,22 @@ using HotelProject.WebUI.Dtos.BookingDto;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.ContactDto;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.GuestDto;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"41f243b70993b7b8de51c553819dcdeaffdeca4f", @"/Views/Shared/Components/_SubscribePartial/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"489bc74970a9e0660197937c4d57c44164956b4e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f99fc7dd4185202306665d2acc3dc65ed0a84c6", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Components__SubscribePartial_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
