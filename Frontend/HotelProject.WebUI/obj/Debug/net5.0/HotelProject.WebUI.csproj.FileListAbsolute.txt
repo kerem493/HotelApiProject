@@ -416,3 +416,10 @@ D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debu
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.MvcApplicationPartsAssemblyInfo.cs
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Guest\UpdateGuest.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\Inbox.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\SideBarAdminContactPartial.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\SideBarAdminContactCategoryPartial.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\AddSendMessage.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\Sendbox.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsBySendbox.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsByInbox.cshtml.g.cs

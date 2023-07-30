@@ -23,7 +23,7 @@ namespace HotelProject.BusinessLayer.Concrete
 
         public Room TGetByID(int id)
         {
-            return _roomDal.TGetByID(id);
+            return _roomDal.GetByID(id);
         }
 
         public void TInsert(Room t)

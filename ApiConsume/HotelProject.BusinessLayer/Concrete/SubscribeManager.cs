@@ -23,7 +23,7 @@ namespace HotelProject.BusinessLayer.Concrete
 
         public Subscribe TGetByID(int id)
         {
-            return _subscribeDal.TGetByID(id);
+            return _subscribeDal.GetByID(id);
         }
 
         public List<Subscribe> TGetList()

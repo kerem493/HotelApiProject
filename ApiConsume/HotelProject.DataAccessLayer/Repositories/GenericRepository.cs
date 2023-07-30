@@ -21,7 +21,7 @@ namespace HotelProject.DataAccessLayer.Repositories
             _context.SaveChanges();
         }
 
-        public T TGetByID(int id)
+        public T GetByID(int id)
         {
             return _context.Set<T>().Find(id);
         }

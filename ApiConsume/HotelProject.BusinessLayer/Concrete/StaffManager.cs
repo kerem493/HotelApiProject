@@ -18,7 +18,7 @@ namespace HotelProject.BusinessLayer.Concrete
         }
         public Staff TGetByID(int id)
         {
-            return _staffDal.TGetByID(id);
+            return _staffDal.GetByID(id);
         }
 
         public void TDelete(Staff t)

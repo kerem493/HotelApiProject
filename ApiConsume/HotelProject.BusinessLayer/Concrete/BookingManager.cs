@@ -35,7 +35,7 @@ namespace HotelProject.BusinessLayer.Concrete
 
         public Booking TGetByID(int id)
         {
-            return _bookingDal.TGetByID(id);
+            return _bookingDal.GetByID(id);
         }
 
         public List<Booking> TGetList()

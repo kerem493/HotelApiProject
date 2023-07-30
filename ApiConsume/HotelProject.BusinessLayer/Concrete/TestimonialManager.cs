@@ -18,7 +18,7 @@ namespace HotelProject.BusinessLayer.Concrete
         }
         public Testimonial TGetByID(int id)
         {
-            return _testimonialDal.TGetByID(id);
+            return _testimonialDal.GetByID(id);
         }
 
         public void TDelete(Testimonial t)

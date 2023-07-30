@@ -18,7 +18,7 @@ namespace HotelProject.BusinessLayer.Concrete
         }
         public Service TGetByID(int id)
         {
-            return _serviceDal.TGetByID(id);
+            return _serviceDal.GetByID(id);
         }
 
         public void TDelete(Service t)

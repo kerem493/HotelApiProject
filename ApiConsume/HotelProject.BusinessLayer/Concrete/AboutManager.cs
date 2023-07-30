@@ -24,7 +24,7 @@ namespace HotelProject.BusinessLayer.Concrete
 
         public About TGetByID(int id)
         {
-            return _aboutDal.TGetByID(id);
+            return _aboutDal.GetByID(id);
         }
 
         public List<About> TGetList()
