@@ -34,3 +34,4 @@ D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLa
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.pdb
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\ref\HotelProject.DataAccessLayer.dll
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.sourcelink.json

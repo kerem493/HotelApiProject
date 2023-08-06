@@ -423,3 +423,14 @@ D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debu
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\Sendbox.cshtml.g.cs
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsBySendbox.cshtml.g.cs
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsByInbox.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\MailKit.dll
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\MimeKit.dll
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminMail\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminImageFile\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminFile\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminUsers\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\WorkLocation\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.sourcelink.json

@@ -28,3 +28,4 @@ D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.EntityLayer\
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.pdb
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.genruntimeconfig.cache
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\ref\HotelProject.EntityLayer.dll
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net5.0\HotelProject.EntityLayer.sourcelink.json

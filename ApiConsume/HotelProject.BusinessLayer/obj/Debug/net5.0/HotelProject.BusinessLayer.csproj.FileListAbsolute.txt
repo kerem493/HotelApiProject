@@ -38,3 +38,4 @@ D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.BusinessLaye
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.pdb
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.genruntimeconfig.cache
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\ref\HotelProject.BusinessLayer.dll
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net5.0\HotelProject.BusinessLayer.sourcelink.json
