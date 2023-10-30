@@ -10,3 +10,4 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelProject.DataAccessLayer
 build_property.ProjectDir = D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.DataAccessLayer\
 build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

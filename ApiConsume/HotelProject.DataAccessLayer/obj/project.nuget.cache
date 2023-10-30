@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Cf0TZL0Qshgqqgwzo3zmbIcPp022Qyn1HLPpx8fC/RseFShOrOxHTfT+O6iz12Dagl+B3AZJ44Yxi4ce75b1sw==",
+  "dgSpecHash": "pyuY0j7jsOOzuC6nhzYyUTbviF3KBPV0HS2x1MdSXN2aM9AhMgw8LN5H4CSPpzc60ZAo4auVBIVnYht3ACzjNQ==",
   "success": true,
   "projectFilePath": "D:\\develope\\Murat Yücedağ\\HotelApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
   "expectedPackageFiles": [
@@ -128,10 +128,7 @@
     "C:\\Users\\kerem\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\kerem\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\kerem\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\kerem\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\kerem\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

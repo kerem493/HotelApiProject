@@ -95,12 +95,18 @@ namespace HotelProject.DataAccessLayer.Migrations
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Country")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("Gender")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
@@ -147,10 +153,7 @@ namespace HotelProject.DataAccessLayer.Migrations
                     b.Property<string>("WorkDepartment")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("WorkLocationCityID")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("WorkLocationID")
+                    b.Property<int>("WorkLocationID")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -557,7 +560,9 @@ namespace HotelProject.DataAccessLayer.Migrations
                 {
                     b.HasOne("HotelProject.EntityLayer.Concrete.WorkLocation", "WorkLocation")
                         .WithMany("AppUsers")
-                        .HasForeignKey("WorkLocationID");
+                        .HasForeignKey("WorkLocationID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("WorkLocation");
                 });

@@ -167,3 +167,6 @@ D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\obj\D
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net5.0\HotelProject.WebApi.genruntimeconfig.cache
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net5.0\ref\HotelProject.WebApi.dll
 D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net5.0\HotelProject.WebApi.sourcelink.json
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\develope\Murat Yücedağ\HotelApiProject\ApiConsume\HotelProject.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

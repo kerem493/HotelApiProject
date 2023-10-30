@@ -434,3 +434,8 @@ D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debu
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminUsers\Index.cshtml.g.cs
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\WorkLocation\Index.cshtml.g.cs
 D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.sourcelink.json
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminUsers\UserList.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminUserListWithWorkLocation\UserList.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardHeadPartial\Default.cshtml.g.cs
+D:\develope\Murat Yücedağ\HotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\_DashboardWidgetPartial\Default.cshtml.g.cs
